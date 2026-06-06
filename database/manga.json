@@ -1,0 +1,41 @@
+{
+  "manga_id": "manga_a_dragonslayers_peerless_regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "멸룡사의 회귀록, Memoir of the King of War",
+  "status": "Ongoing",
+  "author": "Namu",
+  "artist": "Kihm",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Kemanusiaan telah hancur oleh serbuan naga. Sebagai pembunuh naga terakhir, dia kembali ke masa lalu sebelum kiamat dimulai untuk mengubah nasib dunia menggunakan memori dan kemampuannya yang tak tertandingi.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/covers/dragonslayer_cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Awal dari Akhir",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kesempatan Kedua",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/004.jpg"
+      ]
+    }
+  ]
+}
