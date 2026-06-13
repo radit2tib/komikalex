@@ -1,41 +1,23 @@
-{
-  "manga_id": "manga_a_dragonslayers_peerless_regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "멸룡사의 회귀록, Memoir of the King of War",
-  "status": "Ongoing",
-  "author": "Namu",
-  "artist": "Kihm",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Kemanusiaan telah hancur oleh serbuan naga. Sebagai pembunuh naga terakhir, dia kembali ke masa lalu sebelum kiamat dimulai untuk mengubah nasib dunia menggunakan memori dan kemampuannya yang tak tertandingi.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/covers/dragonslayer_cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Awal dari Akhir",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch001/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kesempatan Kedua",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComicRepo/assets/main/manga_a_dragonslayers_peerless_regression/ch002/004.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "category": "fantasy",
+    "url": "https://raw.githubusercontent.com/radit2tib/komikalex/main/fantasy/Children%20of%20the%20Rune.cbz",
+    "cover": null
+  },
+  {
+    "id": "9271425d7392a6f947647262c71f60eae3628871",
+    "title": "Reformation of the Deadbeat Noble",
+    "category": "fantasy",
+    "url": "https://raw.githubusercontent.com/radit2tib/komikalex/main/fantasy/Reformation%20of%20the%20Deadbeat%20Noble.cbz",
+    "cover": null
+  },
+  {
+    "id": "fb357914398b5b70fd952281f8de4493efcbe0a2",
+    "title": "The S Classes That I Raised",
+    "category": "fantasy",
+    "url": "https://raw.githubusercontent.com/radit2tib/komikalex/main/fantasy/The%20S-Classes%20That%20I%20Raised.cbz",
+    "cover": null
+  }
+]
